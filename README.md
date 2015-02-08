@@ -1,0 +1,2 @@
+# Appspective
+This website is a place to discuss your ideas and opinions on major global issues. Go ahead and pick your favorite topic. Once you pick a topic, you will be asked a series of questions, putting you in a crucial situation, where your answer will lead to different situations and ultimately play out a scenario. Afterwards, make sure to check out our about page to learn more about that topic. Finally you will be able to discuss with other real time users (anonymously) what your opinion is.
